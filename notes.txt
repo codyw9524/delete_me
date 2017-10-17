@@ -1,0 +1,9 @@
+Git - Version Control
+
+- Analyzes your Files in the dir you chose to watch
+
+- Put the changes since your last "Commit" into a Staging Area
+
+XXXX   --->  OOOOOO (updated notes.txt)  --->
+
+YYYY ---> 000000 (updated notes.txt again) ---> New Version
